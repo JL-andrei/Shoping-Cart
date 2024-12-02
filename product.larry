@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Safeguard",
+        "price": "50.00",
+        "image": "products/safeguard.png"
+    },
+    {
+        "id": 2,
+        "name": "Johnson's",
+        "price": "70.00",
+        "image": "products/johnson.png"
+    },
+    {
+        "id": 3,
+        "name": "Iris Spring",
+        "price": "40.00",
+        "image": "products/irish.png"
+    },
+    {
+        "id": 4,
+        "name": "Lux",
+        "price": "60.00",
+        "image": "products/lux.png"
+    },
+    {
+        "id": 5,
+        "name": "Dove",
+        "price": "55.00",
+        "image": "products/dove.png"
+    },
+    {
+        "id": 6,
+        "name": "Antabax",
+        "price": "30.00",
+        "image": "products/antabax.png"
+    }
+]
